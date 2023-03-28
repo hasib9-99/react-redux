@@ -4,7 +4,7 @@ export const incNumber = () =>{
     }
 }
 
-export const decNumer = () => {
+export const decNumber = () => {
     return{
         type: "DECREMENT"
     }
