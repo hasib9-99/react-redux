@@ -9,7 +9,7 @@ const App = () => {
         <h4>using React and Rudex</h4>
         <div className='quntity'>
           <a className='quntity_minus' title="Decrement"><span>-</span></a>
-          <input className="quntity_input" name='quntity' type="text" value="0"></input>
+          <input className="quntity_input" name='quntity' type="text"></input>
           <a className='quntity_plus' title="Decrement"><span>+</span></a>
         </div>
       </div>
